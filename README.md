@@ -1,37 +1,70 @@
-# Data Structures in C/C++
+# Data Structures in C
 
-A collection of data structure implementations in C and C++.
+A collection of data structure and algorithm exercises in C.
 
-##  Structure
+## Structure
+
 ```
-data-structures-cpp/
-│
-├── 03_stack/
-│   ── stack_linked_list.cpp
-│
-├── 04_queue/
-│   ── queue_linked_list.cpp
-│
-└── 05_trees/
-    ── binary_search_tree.cpp
+DS/
+|
+|-- Arrays/
+|   |-- array_fill_function.c
+|   |-- array_storage.c
+|   |-- grades_average_v1.c
+|   `-- grades_average.c
+|
+|-- Linked_list/
+|   `-- linked_list_crud.c
+|
+|-- Pointers/
+|   |-- dynamic_memory.c
+|   |-- pointers_basics.c
+|   `-- struct_student.c
+|
+|-- queue/
+|   `-- queue_linked_list.c
+|
+|-- Recursion/
+|   |-- palindrome_iterative.c
+|   |-- palindrome_recursive.c
+|   |-- recursion_basics.c
+|   |-- recursive_array_search.c
+|   |-- recursive_factorial.c
+|   |-- recursive_gcd.c
+|   |-- recursive_perfect_number.c
+|   |-- recursive_power_v1.c
+|   |-- recursive_power_v2.c
+|   |-- recursive_power_v3.c
+|   |-- recursive_prime.c
+|   `-- recursive_sum.c
+|
+|-- Stack/
+|   |-- stack_books_crud.c
+|   |-- stack_clients.c
+|   `-- stack_linked_list.c
+|
+`-- Trees/
+    `-- binary_search_tree.c
 ```
 
-##  Implemented
+## Implemented
 
 | Structure | File | Status |
 |---|---|---|
-| Stack (linked list) | `03_stack/stack_linked_list.cpp` |  Done |
-| Queue (linked list) | `04_queue/queue_linked_list.cpp` |  Done |
-| Binary Search Tree | `05_trees/binary_search_tree.cpp` |  Done |
+| Arrays | `Arrays/` | Done |
+| Linked List (CRUD) | `Linked_list/linked_list_crud.c` | Done |
+| Dynamic Memory / Pointers | `Pointers/` | Done |
+| Queue (linked list) | `queue/queue_linked_list.c` | Done |
+| Recursion | `Recursion/` | Done |
+| Stack (array & linked list) | `Stack/` | Done |
+| Binary Search Tree | `Trees/binary_search_tree.c` | Done |
 
+## Built With
 
-##  Built With
-
-- C / C++
-- Visual Studio Code
+- C
 - Dev-C++
 
-##  Author
+## Author
 
 **gsicarius**  
 [github.com/gsicarius](https://github.com/gsicarius)
