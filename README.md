@@ -7,30 +7,21 @@ A collection of data structure implementations in C and C++.
 data-structures-cpp/
 │
 ├── 03_stack/
-│   ├── stack_array.cpp
-│   ├── stack_linked_list.cpp
-│   └── README.md
+│   ── stack_linked_list.cpp
 │
 ├── 04_queue/
-│   ├── queue_array.cpp
-│   ├── queue_linked_list.cpp
-│   └── README.md
+│   ── queue_linked_list.cpp
 │
 └── 05_trees/
-    ├── binary_tree.cpp
-    ├── binary_search_tree.cpp
-    └── README.md
+    ── binary_search_tree.cpp
 ```
 
 ##  Implemented
 
 | Structure | File | Status |
 |---|---|---|
-| Stack (array) | `03_stack/stack_array.cpp` |  Done |
 | Stack (linked list) | `03_stack/stack_linked_list.cpp` |  Done |
-| Queue (array) | `04_queue/queue_array.cpp` |  Done |
 | Queue (linked list) | `04_queue/queue_linked_list.cpp` |  Done |
-| Binary Tree | `05_trees/binary_tree.cpp` |  Done |
 | Binary Search Tree | `05_trees/binary_search_tree.cpp` |  Done |
 
 
