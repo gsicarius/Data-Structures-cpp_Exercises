@@ -1,0 +1,14 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# VSCode
+.vscode/
+
+# Build folders
+build/
+bin/
+debug/
+release/
